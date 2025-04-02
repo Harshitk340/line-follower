@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"M1, M2",2," DC Motor"
+"U1",1," Arduino Uno R3"
+"U2",1," H-bridge Motor Driver"
+"R3, R1",2,"1 kΩ Resistor"
+"TILT1, TILT2",2," Tilt Sensor"
+"R2",1,"80 Ω Resistor"
